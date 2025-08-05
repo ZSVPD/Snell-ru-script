@@ -1,1 +1,0 @@
-# Snell-ru-script
