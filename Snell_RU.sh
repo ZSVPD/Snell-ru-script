@@ -28,7 +28,7 @@ select_snell_version() {
     echo -e "${GREEN}2.${RESET} Snell v5"
     
     while true; do
-        read -rp "请输入选项 [1-2]: " version_choice
+        read -rp "Выберите вариант [1-2]: " version_choice
         case "$version_choice" in
             1)
                 SNELL_VERSION_CHOICE="v4"
